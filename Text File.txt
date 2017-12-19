@@ -1,0 +1,1 @@
+https://gist.github.com/spard6159/b14592d137f6cd577e25eb0a98f3ffeb/blob/master/install_StaSh.py
